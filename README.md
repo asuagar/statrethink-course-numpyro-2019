@@ -15,6 +15,6 @@ All the notebooks can be interactively used through the "launch binder" button l
 How I would use this repo is like this:
 
 1. Go to the notebook of the week.
-2. Watch the two videos for the lectures of that week. Their URL are at the very top of each notebook.
+2. Watch the two videos for the lectures of that week.
 3. Read the original problems presented to the students and try to solve them on your own.
 4. Follow the exercises solutions of the notebook with my code and explanations by Professor McElreath.
