@@ -1,5 +1,7 @@
 # Statistical Rethinking: A Bayesian Course Using Python and NumPyro
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/asuagar/statrethink-course-in-numpyro/main)
+
 ## Intro
 
 This repo contains the `python`/`numpyro` version of the Statistical Rethinking course that Professor Richard McElreath taught on the Max Planck Institute for Evolutionary Anthropology in Leipzig during the Winter of 2019/2020. The original repo for the course, from which this repo is forked, can be found [here](https://github.com/rmcelreath/statrethinking_winter2019). The course contains 20 lectures structured in 10 weeks with a series of assignments for each week.  The course is an excellent introduction to bayesian modelling in general and to the Rethinking Statistics wonderful [book](https://xcelab.net/rm/statistical-rethinking/) written by Professor McElreath.
