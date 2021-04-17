@@ -8,7 +8,7 @@ This repo contains the `python`/`numpyro` version of the Statistical Rethinking 
 
 ## How to use this repo
 
-There are ten `jupyter` notebooks, one for each week of the course. At the beginning of each notebook there are links to the youtube videos of the lectures, the slides used and the original homework questions and answers in `R`.
+There are ten `jupyter` notebooks, one for each week of the course. At the beginning of each notebook there are links to the youtube videos of the lectures, the slides used and the original homework questions and answers in `R`. All the notebooks can be interactively used through the binder button located in the top of this file.
 
 How I would use this repo is like this:
 
@@ -16,13 +16,6 @@ How I would use this repo is like this:
 2. Watch the two videos for the lectures of that week. Their URL are at the very top of each notebook.
 3. Read the original problems presented to the students and try to solve them on your own.
 4. Follow the exercises solutions of the notebook with my code and explanations by Professor McElreath.
-
-## Other useful resources
-
-There are a lot of very useful resources for bayesian statistical modelling out there. Specifically centered on Professor McElreath work I would mention:
-
-1. Original [repo](https://github.com/rmcelreath/statrethinking_winter2019) for the course.
-2. Original `rethinking` package [repo](https://github.com/rmcelreath/rethinking)
 
 ## Copyright
 
