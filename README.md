@@ -10,7 +10,7 @@ The present work is a derivative of [Statistical Rethinking: A Bayesian Course U
 
 ## How to use this repo
 
-There are ten `jupyter` notebooks, one for each week of the course. At the beginning of each notebook there are links to the youtube videos of the lectures, the slides used and the original homework questions and answers in `R`. All the notebooks can be interactively used through the binder button located in the top of this file.
+All the notebooks can be interactively used through the binder button located in the top of this file. There are ten `jupyter` notebooks, one for each week of the course. At the beginning of each notebook there are links to the youtube videos of the lectures, the slides used and the original homework questions and answers in `R`. 
 
 How I would use this repo is like this:
 
